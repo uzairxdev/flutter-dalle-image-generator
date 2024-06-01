@@ -39,6 +39,9 @@ This repository contains a Flutter application for generating images using the D
 
 ### Running the App
 
+### Demo
+https://github.com/uzairxdev/flutter-dalle-image-generator/assets/117645470/1f4d1b06-f424-42dc-a544-ce9173371fa3
+
 Run the app using the following command:
 
 ```bash
